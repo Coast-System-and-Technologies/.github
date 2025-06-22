@@ -1,4 +1,3 @@
-# .github
 # Coast System and Technologies
 
 Welcome to the official GitHub organization of Coast System and Technologies Limited — the infrastructure and digital backbone of the Coast franchise.
